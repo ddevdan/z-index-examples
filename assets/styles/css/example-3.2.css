@@ -1,0 +1,9 @@
+.posts-wraper {
+  isolation: isolate;
+}
+
+header {
+  isolation: isolate;
+}
+
+/*# sourceMappingURL=example-3.2.css.map */
