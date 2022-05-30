@@ -1,0 +1,21 @@
+.modal {
+  z-index: 1040;
+}
+
+.modal__body {
+  z-index: 1060;
+}
+
+header {
+  z-index: 100;
+}
+
+.header__call-to-action {
+  z-index: 100;
+}
+
+.posts-wraper {
+  z-index: 100;
+}
+
+/*# sourceMappingURL=example.3.4.css.map */

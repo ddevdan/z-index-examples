@@ -1,0 +1,23 @@
+$zindex-flow: 100;
+$zindex-modal-backdrop: 1040;
+$zindex-modal: 1060;
+
+.modal {
+  z-index: $zindex-modal-backdrop;
+}
+
+.modal__body {
+  z-index: $zindex-modal;
+}
+
+header {
+  z-index: $zindex-flow;
+}
+
+.header__call-to-action {
+  z-index: $zindex-flow;
+}
+
+.posts-wraper {
+  z-index: $zindex-flow;
+}
